@@ -1,0 +1,6 @@
+C:\Users\alek\source\repos\dz\dz\obj\Debug\dz.csprojAssemblyReference.cache
+C:\Users\alek\source\repos\dz\dz\bin\Debug\dz.exe.config
+C:\Users\alek\source\repos\dz\dz\bin\Debug\dz.exe
+C:\Users\alek\source\repos\dz\dz\bin\Debug\dz.pdb
+C:\Users\alek\source\repos\dz\dz\obj\Debug\dz.exe
+C:\Users\alek\source\repos\dz\dz\obj\Debug\dz.pdb
